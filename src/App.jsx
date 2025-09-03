@@ -202,7 +202,7 @@ export default function App() {
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button>
             <a
-              href="/Sai Pavan Kumar Gundapaneni RESUME.docx"
+              href={process.env.PUBLIC_URL + "/Sai Pavan Kumar Gundapaneni RESUME.docx"}
               download
               className="px-8 py-4 border-2 border-blue-600 text-blue-600 dark:text-blue-400 dark:border-blue-400 rounded-full font-semibold hover:bg-blue-600 hover:text-white dark:hover:bg-blue-400 dark:hover:text-gray-900 transition-all duration-300 flex items-center gap-2"
             >
@@ -254,7 +254,7 @@ export default function App() {
   <div className="aspect-square bg-gradient-to-br from-blue-400 to-purple-600 rounded-2xl p-2 shadow-2xl">
     <div className="w-full h-full rounded-xl overflow-hidden bg-white/10 backdrop-blur-sm">
       <img 
-        src="/Profile-photo.jpeg" 
+        src={process.env.PUBLIC_URL + "/Profile-photo.jpeg"} 
         alt="Sai Pavan Kumar - Full Stack Java Developer"
         className="w-full h-full object-cover rounded-xl hover:scale-105 transition-transform duration-300"
         onError={(e) => {
