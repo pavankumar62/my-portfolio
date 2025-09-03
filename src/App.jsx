@@ -215,10 +215,10 @@ export default function App() {
             <a href="mailto:saipavankumar2703@gmail.com" className="p-3 rounded-full bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hover:scale-110 transition-transform shadow-lg">
               <Mail className="w-6 h-6 text-gray-700 dark:text-gray-300" />
             </a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hover:scale-110 transition-transform shadow-lg">
+            <a href="www.linkedin.com/in/sai-pavan-kumar-gundapaneni" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hover:scale-110 transition-transform shadow-lg">
               <Linkedin className="w-6 h-6 text-gray-700 dark:text-gray-300" />
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hover:scale-110 transition-transform shadow-lg">
+            <a href="https://github.com/pavankumar62" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hover:scale-110 transition-transform shadow-lg">
               <Github className="w-6 h-6 text-gray-700 dark:text-gray-300" />
             </a>
           </div>
@@ -370,7 +370,7 @@ export default function App() {
               </a>
               
               <a
-                href="https://linkedin.com/in/yourprofile"
+                href="www.linkedin.com/in/sai-pavan-kumar-gundapaneni"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group p-6 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl hover:shadow-xl transition-all duration-300 hover:scale-105"
@@ -386,7 +386,7 @@ export default function App() {
               </a>
               
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/pavankumar62"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group p-6 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl hover:shadow-xl transition-all duration-300 hover:scale-105"
