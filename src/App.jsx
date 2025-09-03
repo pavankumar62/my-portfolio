@@ -254,7 +254,7 @@ export default function App() {
   <div className="aspect-square bg-gradient-to-br from-blue-400 to-purple-600 rounded-2xl p-2 shadow-2xl">
     <div className="w-full h-full rounded-xl overflow-hidden bg-white/10 backdrop-blur-sm">
       <img 
-        src="/Profile-photo.jpeg" 
+        src="/Profile-photo.jpg" 
         alt="Sai Pavan Kumar - Full Stack Java Developer"
         className="w-full h-full object-cover rounded-xl hover:scale-105 transition-transform duration-300"
         onError={(e) => {
